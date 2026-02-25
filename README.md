@@ -1,4 +1,4 @@
-Recruitensor - The Intelligent Talent Layer for Bittensor
+# Recruitensor - The Intelligent Talent Layer for Bittensor
 
 Recruitensor is a Bittensor subnet that decentralises and incentivises talent acquisition for the Bittensor ecosystem. Despite over 128 active subnets, network growth is bottlenecked by a shortage of skilled miners and builders. There is no dedicated recruiting infrastructure. Onboarding relies on hackathons, word of mouth, and manual outreach. Recruitensor solves this by turning recruitment into a verifiable, on-chain commodity.
 
